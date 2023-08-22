@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.moodmedia.controller.app",
+                "appID": "S2T5RH48ZP.com.moodmedia.controller.app",
                 "paths": [ "/wpn/*"]
             }
         ]
