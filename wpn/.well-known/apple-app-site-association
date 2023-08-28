@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "S2T5RH48ZP.com.moodmedia.controller.app",
+                "paths": ["/wpn/*"]
+            }
+        ]
+    }
+}
