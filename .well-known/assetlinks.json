@@ -4,6 +4,6 @@
     "namespace": "android_app",
     "package_name": "com.moodmedia.controller.app",
     "sha256_cert_fingerprints":
-    ["31:F8:EB:96:D0:7A:DF:D0:AA:D2:49:7A:3B:49:82:C5:27:8B:2C:26:3A:82:AA:08:49:76:0B:CB:DB:B8:55:55"]
+    ["31:F8:EB:96:D0:7A:DF:D0:AA:D2:49:7A:3B:49:82:C5:27:8B:2C:26:3A:82:AA:08:49:76:0B:CB:DB:B8:55:55","73:3F:90:E4:F1:AE:DD:0A:A4:FC:91:D3:95:9E:43:AD:76:E3:04:47:FB:74:26:3C:ED:0B:6B:0A:6E:32:7C:3B","98:A8:F3:F5:7D:2C:51:BA:AC:B0:0C:3A:68:9E:CC:C9:83:9D:EF:D3:A3:7F:14:74:07:6E:9A:0E:F2:11:E4:BE"]
   }
 }]
